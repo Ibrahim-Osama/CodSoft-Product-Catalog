@@ -1,0 +1,19 @@
+.cardstyle
+{
+    margin-top: 20px;
+    text-align: center;
+}
+.cardstyle img
+{
+   height: 100px;
+   width: 150px;
+   margin: auto;
+   margin-top: 20px;
+}
+.lighty{
+    color: lightgreen !important;
+}
+.imgst
+{
+    cursor: pointer;
+}

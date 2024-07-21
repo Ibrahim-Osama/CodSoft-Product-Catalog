@@ -1,0 +1,137 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "imgsrc": "https://m.media-amazon.com/images/I/71Is-Zv6A0L._AC_SX425_.jpg",
+      "title": "Canon EOS Rebel T7 DSLR Camera with 18-55mm Lens | Built-in Wi-Fi | 24.1 MP CMOS Sensor | DIGIC 4+ Image Processor and Ful... Canon EOS Rebel T7 DSLR Camera with 18-55mm Lens | Built-in Wi-Fi | 24.1 MP CMOS Sensor | DIGIC 4+ Image Processor and Full HD Videos",
+      "price": "1000"
+    },
+    {
+      "id": "2",
+      "imgsrc": "https://m.media-amazon.com/images/I/71NXowebfKL._AC_SX425_.jpg",
+      "title": "Saneen Digital Camera, 4k Cameras for Photography & Video, 64MP WiFi Touch Screen Vlogging Camera for YouTube with Flash, ... Saneen Digital Camera, 4k Cameras for Photography & Video, 64MP WiFi Touch Screen Vlogging Camera for YouTube with Flash, 32GB SD Card, Lens Hood",
+      "price": "2000"
+    },
+    {
+      "id": "3",
+      "imgsrc": "https://m.media-amazon.com/images/I/71r2oh5z9jL._AC_SX425_.jpg",
+      "title": "Sony ZV-1F Vlog Camera for Content Creators and Vloggers White",
+      "price": "3000"
+    },
+    {
+      "id": "4",
+      "imgsrc": "https://m.media-amazon.com/images/I/71suGwfhN1L._AC_SX425_.jpg",
+      "title": "KODAK PIXPRO 20MP Digital Camera 40X Optical Zoom 24mm Wide Angle Lens Optical Image Stabilization 1080P Full HD Video 3 LCD Vlogging Camera (Black)",
+      "price": "4000"
+    },
+    {
+      "id": "5",
+      "imgsrc": "https://m.media-amazon.com/images/I/71edZl9AfcL._AC_SX425_.jpg",
+      "title": "Fujifilm Instax Mini 12 Instant Camera Mint Green + MiniMate Accessory Bundle & Compatible Custom Case + Fuji Instax Film ... Fujifilm Instax Mini 12 Instant Camera Mint Green + MiniMate Accessory Bundle & Compatible Custom Case + Fuji Instax Film Value Pack (50 Sheets) Flamingo Designe",
+      "price": "5000"
+    },
+    {
+      "id": "6",
+      "imgsrc": "https://m.media-amazon.com/images/I/61gJcez9unL._AC_SY550_.jpg",
+      "title": "Canon EOS R100 Mirrorless Camera RF-S18-45mm F4.5-6.3 IS STM Lens Kit, 24.1 Megapixel CMOS (APS-C) sensor, 4K Video, RF Mount, Black",
+      "price": "6000"
+    },
+    {
+      "id": "7",
+      "imgsrc": "https://m.media-amazon.com/images/I/416i+jupDlL._AC_SX425_.jpg",
+      "title": "TP-Link Tapo 1080P Indoor Security Camera for Baby Monitor, Dog Camera w/Motion Detection, 2-Way Audio Siren, Night Vision, Cloud & SD Card Storage, Works w/Alexa ",
+      "price": "7000"
+    },
+    {
+      "id": "8",
+      "imgsrc": "https://m.media-amazon.com/images/I/81swjZCbdiL._AC_SX425_.jpg",
+      "title": "Kasa 2K QHD Security Camera Pan/Tilt, Starlight Sensor for Color Night Vision, Motion Detection for Baby & Pet Monitor, 2-... Kasa 2K QHD Security Camera Pan/Tilt, Starlight Sensor for Color Night Vision, Motion Detection for Baby & Pet Monitor, 2-Way Audio, Cloud & SD Card Storage, Works with",
+      "price": "8000"
+    },
+    {
+      "id": "9",
+      "imgsrc": "https://m.media-amazon.com/images/I/71PKvKnp9bL._AC_SX425_PIbundle-2,TopRight,0,0_SH20_.jpg",
+      "title": "KODAK PIXPRO FZ55-BK 16MP CMOS Sensor Digital Camera 5X Optical Zoom 28mm Wide Angle 1080P Full HD Video 2.7 LCD Vlogging... KODAK PIXPRO FZ55-BK 16MP CMOS Sensor Digital Camera 5X Optical Zoom 28mm Wide Angle 1080P Full HD Video 2.7 LCD Vlogging Camera (Black)",
+      "price": "9000"
+    },
+    {
+      "id": "10",
+      "imgsrc": "https://m.media-amazon.com/images/I/71JfxR92onL._AC_SX425_.jpg",
+      "title": "LaView 4MP 2K Security Cameras Outdoor Indoor Wired,IP65, Starlight Sensor & 100 Ft Night Vision,Motion/Person Detection,2-Way Audio/Spotlight,US Cloud,Compatible Wi",
+      "price": "000"
+    },
+    {
+      "id": "11",
+      "imgsrc": "https://m.media-amazon.com/images/I/61hVj7O9WrL._AC_SX425_.jpg",
+      "title": "VETEK Digital Cameras for Photography, 4K 48MP Vlogging Camera 16X Digital Zoom Manual Focus Students Compact Camera with 52mm Wide-Angle Lens & Macro Len",
+      "price": "10000"
+    },
+    {
+      "id": "12",
+      "imgsrc": "https://m.media-amazon.com/images/I/61vLAtsPB4L._AC_SX425_.jpg",
+      "title": "KODAK PIXPRO WPZ2 Rugged Waterproof Shockproof Dustproof WiFi Digital Camera 16MP 4X Optical Zoom 1080P Full HD Video Vlogging Camera 2.7 LCD (Yellow)",
+      "price": "11000"
+    },
+    {
+      "id": "13",
+      "imgsrc": "https://m.media-amazon.com/images/I/61yEQfIEsoL._AC_SX425_.jpg",
+      "title": "KODAK PIXPRO WPZ2 Rugged Waterproof Shockproof Dustproof WiFi Digital Camera 16MP 4X Optical Zoom 1080P Full HD Video Vlogging Camera 2.7 LCD (Blue)",
+      "price": "12000"
+    },
+    {
+      "id": "14",
+      "imgsrc": "https://m.media-amazon.com/images/I/31R2Cj5T-2L._AC_SX425_.jpg",
+      "title": "Panasonic LUMIX 4K Digital Camera, 18.1 Megapixel Video Camera, 60X Zoom DC VARIO 20-1200mm Lens, F2.8-5.9 Aperture, Power O.I.S. Stabilization, Touch Enabled 3-Inch",
+      "price": "13000"
+    },
+    {
+      "id": "15",
+      "imgsrc": "https://m.media-amazon.com/images/I/61yAqemppzL._AC_SX425_.jpg",
+      "title": "Google Nest Cam with Floodlight - Outdoor Camera - Floodlight Security Camera, White, 1 Count (Pack of 1)",
+      "price": "14000"
+    },
+    {
+      "id": "16",
+      "imgsrc": "https://m.media-amazon.com/images/I/814wklXhBcL._AC_SX425_.jpg",
+      "title": "Digital Camera, FHD 1080P Camera, Digital Point and Shoot Camera with 16X Zoom Anti Shake, Compact Small Camera for Boys Girls Kids",
+      "price": "15000"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "imgsrc": "",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "imgsrc": "",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "Cart": [
+    {
+      "id": "6",
+      "imgsrc": "https://m.media-amazon.com/images/I/61gJcez9unL._AC_SY550_.jpg",
+      "title": "Canon EOS R100",
+      "Price": "6000",
+      "Quentity": 1
+    },
+    {
+      "id": "7",
+      "imgsrc": "https://m.media-amazon.com/images/I/416i+jupDlL._AC_SX425_.jpg",
+      "title": "TP-Link Tapo 1080P",
+      "Price": "7000",
+      "Quentity": 1
+    },
+    {
+      "id": "15",
+      "imgsrc": "https://m.media-amazon.com/images/I/61yAqemppzL._AC_SX425_.jpg",
+      "title": "Google Nest Cam",
+      "Price": "14000",
+      "Quentity": 1
+    }
+  ]
+}
