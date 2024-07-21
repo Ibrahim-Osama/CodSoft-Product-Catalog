@@ -113,20 +113,6 @@
   ],
   "Cart": [
     {
-      "id": "6",
-      "imgsrc": "https://m.media-amazon.com/images/I/61gJcez9unL._AC_SY550_.jpg",
-      "title": "Canon EOS R100",
-      "Price": "6000",
-      "Quentity": 1
-    },
-    {
-      "id": "7",
-      "imgsrc": "https://m.media-amazon.com/images/I/416i+jupDlL._AC_SX425_.jpg",
-      "title": "TP-Link Tapo 1080P",
-      "Price": "7000",
-      "Quentity": 1
-    },
-    {
       "id": "15",
       "imgsrc": "https://m.media-amazon.com/images/I/61yAqemppzL._AC_SX425_.jpg",
       "title": "Google Nest Cam",
